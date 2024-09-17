@@ -1,1 +1,1 @@
-hi im new to git hub 
+hi i am new to git hub 
